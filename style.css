@@ -10,6 +10,10 @@ body {
   color: #e0e0ff;
 }
 
+h1{
+  margin-top: 40px;
+}
+
 #project {
   background-color: #6F42C1;
   color: #e0e0ff;
