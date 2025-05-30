@@ -1,0 +1,72 @@
+body {
+  scroll-behavior: smooth;
+  background-color: #0a0a0a;
+  color: #e0e0e0;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: black;
+  color: #e0e0ff;
+}
+
+#project {
+  background-color: #6F42C1;
+  color: #e0e0ff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+svg {
+  margin-bottom: -4px;
+}
+
+.card {
+  background-color: #2b0a3d;
+  color: #ffffff;
+  border: none;
+}
+
+.card-img-top {
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.card-img-top:hover {
+  transform: scale(1.05);
+  filter: brightness(1.1);
+}
+
+.navbar {
+  background-color: #4b0082 !important;
+}
+
+footer {
+  background-color: #4b0082 !important;
+  color: #ffffff;
+}
+
+footer a {
+  color: #e0e0ff;
+}
+
+footer a:hover {
+  color: #b48aff;
+}
+
+.btn-primary {
+  background-color: #8000ff;
+  border-color: #8000ff;
+}
+
+.btn-primary:hover {
+  background-color: #a64dff;
+  border-color: #a64dff;
+}
+
+.alert-success {
+  background-color: #4b0082;
+  color: #ffffff;
+  border-color: #8000ff;
+}
